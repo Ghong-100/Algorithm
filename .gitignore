@@ -1,3 +1,9 @@
+# config data
+/.vscode/
+/build/
+
+
+
 # Prerequisites
 *.d
 
